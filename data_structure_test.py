@@ -73,6 +73,4 @@ def test_list_comprehension():
     seq2 = [(x, x**2) for x in seq]
     print(seq2)
 
-
-
 if __name__ == '__main__': main()
